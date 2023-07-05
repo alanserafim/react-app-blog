@@ -13,7 +13,7 @@ Top-down
 |--- |--- |---
 | 1 | App, Inicio, SobreMim | Instalando o react-router-dom, utilizando BrowserRouter, Routes e Route, uso do caractere coringa (*)
 | 2 | Menu, Banner | Utilização das tags: Link e NavLink, utilização do hook useLocation
-| 3 | Componente | Conceito
+| 3 | Post, Rodape | Uso SVGs como componentes react
 | 4 | Componente | Conceito
 | 5 | Componente | Conceito
 

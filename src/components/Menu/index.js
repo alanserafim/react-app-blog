@@ -11,7 +11,7 @@ export default function Menu() {
            <MenuLink to={"/"}>
             Início
            </MenuLink>
-           <MenuLink to={"/sobremin"}>
+           <MenuLink to={"/sobremim"}>
             Sobre Mim
            </MenuLink>
         </nav>

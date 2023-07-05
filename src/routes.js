@@ -1,11 +1,13 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Inicio from "./paginas/Inicio";
 import SobreMin from "./paginas/SobreMim";
+import Menu from "./components/Menu";
 
-function App() {
+function AppRoutes() {
   return (
     <div>
       <BrowserRouter>
+      <Menu/>
         <Routes>
          <Route path="/" element={<Inicio/>}/>
          <Route path="/sobremin" element={<SobreMin/>}/>
@@ -17,4 +19,4 @@ function App() {
   );
 }
 
-export default App;
+export default AppRoutes;

@@ -15,6 +15,6 @@ Top-down
 | 2 | Menu, Banner | Utilização das tags: Link e NavLink, utilização do hook useLocation
 | 3 | PostCard, Rodape, Pagina Padrao, PostModelo, Sobremim | Uso SVGs como componentes react, rotas aninhadas com outlet, caminhos absolutos e relativos
 | 4 | Post, NaoEncontrada | hook useParamas, seletores de rotas dinâmicas
-| 5 | Componente | Conceito
+| 5 | Refatoração | hook useNavigate e rotas descendentes
 
 
